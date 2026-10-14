@@ -17,3 +17,4 @@ __pycache__/
 *.pkl
 *.pt
 *.pth
+!ml_pipeline/models/*.pkl
